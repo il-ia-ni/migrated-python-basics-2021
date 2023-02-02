@@ -4,6 +4,7 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/venv" />
       <excludeFolder url="file://$MODULE_DIR$/venv_macos" />
+      <excludeFolder url="file://$MODULE_DIR$/help_infos" />
     </content>
     <orderEntry type="jdk" jdkName="Python (migrated-python-basics-2021)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
