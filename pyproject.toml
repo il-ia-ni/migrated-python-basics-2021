@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "python-basics-2021"
+version = "0.1.0"
+description = "These are my tutorials from SMS digital that I have done at the beginning of my professional training in October 2021"
+authors = ["Ilia Nikolaenko <aili70@duck.com>"]
+readme = "README.md"
+packages = [{ include = "python_basics_2021" }]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
